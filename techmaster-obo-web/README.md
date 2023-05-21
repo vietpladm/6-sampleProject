@@ -1,6 +1,6 @@
 # Giới thiệu
 
-bài lab tổng hợp với thao tác build và deploy một ưng dụng Java Maven lên môi trường Kubernetes
+Bài lab tổng hợp với thao tác build và deploy một ưng dụng Java Maven lên môi trường Kubernetes
 
 project demo được lấy tại github: https://github.com/liamhubian/techmaster-obo-web
 
