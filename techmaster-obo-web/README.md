@@ -1,5 +1,5 @@
-Build and deploy an application using Java Maven and mysql database in K8S environment.
-(Application here is a website selling sport shoes.)
+# Build and deploy an application using Java Maven and mysql database in K8S environment.
+# (Application here is a website selling sport shoes.)
 
 Source code of the website was cloned from: https://github.com/liamhubian/techmaster-obo-web
 
